@@ -1,0 +1,41 @@
+.todoForm {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 50px;
+  align-items: center;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
+}
+
+.input {
+    border: none;
+    width: 90%;
+    display: block;
+   font-size: 24px;
+   color: green;
+   
+}
+
+.input:focus {
+    outline: none;
+}
+
+.btn {
+      background-color: rgb(226, 12, 226);
+      font-size: 15px;
+      color: #222831;
+      padding: 12px 20px;
+      cursor: pointer;
+      border: none;
+      border-radius: 5px;
+}
+
+.inputContainer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

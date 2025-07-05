@@ -1,0 +1,32 @@
+.item {
+    width: 400px;
+    color: #353935;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.itemName {
+    font-weight: bold;
+    padding: 20px;
+
+}
+
+.line {
+    border: 1px solid #e2e2e2;
+}
+
+.delete {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right;
+    cursor: pointer;
+}
+
+.delete:hover {
+    background-color: #ff1a1a;
+}
