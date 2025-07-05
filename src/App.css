@@ -38,6 +38,6 @@ body {
 
 @media (max-width: 500px) {
     .todoCont {
-        min-width: 300px;
+        min-width: 200px;
     }
 }
