@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './Todoitem.module.css'
+import styles from './todoitem.module.css'
 
 const TodoItem = ({item, todos, setTodos}) => {
 
