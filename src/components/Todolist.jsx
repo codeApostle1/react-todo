@@ -1,6 +1,6 @@
 import React from 'react'
 import TodoItem from './TodoItem'
-import styles from './Todolist.module.css'
+import styles from './todolist.module.css'
 
 const Todolist = ({todos, setTodos}) => {
   return (
